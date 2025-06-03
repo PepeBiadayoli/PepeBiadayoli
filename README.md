@@ -3,8 +3,6 @@
 
 
 # Hola, soy Jose Biadayoli ! 👋
-
-## 🔗 Links
 <div align="center">
   <a href="https://pepebiadayoli.github.io/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
@@ -28,23 +26,4 @@ Recientemente terminé un Bootcamp en Python, lo que reforzó mis habilidades y 
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
 
