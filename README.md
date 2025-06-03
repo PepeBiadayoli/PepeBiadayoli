@@ -4,6 +4,15 @@
 
 # Hola, soy Jose Biadayoli ! 👋
 
+## 🔗 Links
+<div align="center">
+  <a href="https://pepebiadayoli.github.io/">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/josebiadayoli/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</div>
 
 ## 🚀 Sobre Mi
 Soy Ingeniero Informatico y Full-Stack developer en proceso con experiencia en desarrollo de software y soluciones tecnológicas. Me encanta trabajar en equipo, planificar proyectos y encontrar soluciones creativas para problemas complejos.
@@ -19,15 +28,7 @@ Recientemente terminé un Bootcamp en Python, lo que reforzó mis habilidades y 
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-## 🔗 Links
-<div align="center">
-  <a href="https://pepebiadayoli.github.io/">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/josebiadayoli/">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-</div>
+
 
 
 ## Other Common Github Profile Sections
